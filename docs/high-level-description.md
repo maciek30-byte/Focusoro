@@ -1,13 +1,15 @@
-Zaktualizowane cele biznesowe (prosty język)
-Budujesz aplikację, która pozwala Ci:
+Business Goals
 
-Mierzyć konkretny progres – czy chudniesz, czy jesteś do przodu z materiałem, co dokładnie przerobiłeś, ile czasu na to poświęciłeś.
-Śledzić nawyki i cele codziennie + długoterminowo (trendy, % wykonania).
-Widzieć, że nawet po 2–3 dniach „zajebania” sumarycznie idziesz do przodu → szybciej wracać do rytu.
-Dodawać własne pola i cele (kalorie, waga, pomiary, trening, sen, Fap, Pomodoro, temat/moduł itp.).
-Mieć notatki do dnia i do nawyku.
-Korzystać z tego na telefonie i na webie, z logowaniem.
+Track measurable progress: whether you are losing weight, moving forward with study/work material, what specific topics you have covered, time spent, and what remains to be completed.
 
-W skrócie:
+Track habits and goals on a daily and long-term basis: visualize trends and completion rates (%).
 
-Mierzysz wszystko, co ważne (waga, nauka, czas, nawyki). Jak mierzysz – możesz to poprawić. Aplikacja pokazuje prawdziwy postęp i motywuje do szybkiego powrotu po wpadce.
+Maintain perspective despite setbacks: see net positive progress even after 2–3 completely overwhelmed or inactive days, making it faster and easier to regain momentum.
+
+Custom fields and tracking metrics: ability to add custom parameters and goals (e.g., calories, body weight, measurements, workouts, sleep, screen time, Pomodoro sessions, topics/modules, etc.).
+
+Daily and habit-level notes: attach contextual notes to specific days as well as individual habits.
+
+Cross-platform availability: seamless mobile and web experience with user authentication/login.
+
+Extensible architecture: modular core designed from the ground up to support custom, pluggable features and modules based on evolving needs.
